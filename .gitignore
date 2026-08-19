@@ -1,5 +1,11 @@
-node_modules/
-dist/
+# ડાઉનલોડ કરેલી એપ ફાઇલો repo માં commit કરવી નથી (મોટી + લાઇસન્સ નિયમો)
+downloads/
+*.apk
+*.apk.sha256
+
+# સામાન્ય
+.DS_Store
 .env
 .env.*
-.DS_Store
+node_modules/
+dist/
